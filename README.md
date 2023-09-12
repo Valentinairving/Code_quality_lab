@@ -1,7 +1,7 @@
 # Code_quality_lab
 Code quality lab for intro to PHP
 
-My name is Valentina and my repository is here: 
+My name is Valentina and my repository is here: https://github.com/Valentinairving/Code_quality_lab/blob/main/README.md
 
 https://www.indeed.com/career-advice/career-development/what-is-code-quality
 > The article first explains what code quality means, and lists some characteristics of high quality code
