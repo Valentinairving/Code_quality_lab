@@ -18,10 +18,22 @@ https://medium.com/@teal33t/clean-code-in-php-best-practices-and-principles-8ccf
 > Making code easy to read and understand
 > Not having redundant code
 > Breaking code into smaller, more concise portions
-> Efficient and robus
+> Efficient and robust
 > Follow coding standard
-> Well documented by comments
+> Well-documented by comments
 
 https://stepsize.com/blog/the-engineers-complete-guide-to-code-quality
-> 
-> 
+> Some signs of good quality code are it is efficient, easy to read, testable, easy to build on and well-documented.
+> Using software to check code
+> Code reviews
+> Refactoring code
+> Follows standards and style guides
+
+https://www.perforce.com/blog/sca/what-code-quality-overview-how-improve-code-quality
+> Clean code is reliable
+> Reusable
+> Portable
+> Can be maintained
+> Testable
+
+ 
