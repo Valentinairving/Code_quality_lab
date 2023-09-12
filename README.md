@@ -39,4 +39,4 @@ https://www.perforce.com/blog/sca/what-code-quality-overview-how-improve-code-qu
  Across the articles, the best points for what makes clean code are:
  1) It is testable and efficient 2) It is clearly documented and simple 3) It follows a usual standard or practice 4) It is portable 5) Allows for building on and reusing
 
-
+For this assigment I would give myself a 3 out of 4. I think I followed the instructions and put together a document that gives a good idea about what quality code looks like. Each article is summarized by checkpoints and at the end I have narrowed down the key elements to high quality code.
